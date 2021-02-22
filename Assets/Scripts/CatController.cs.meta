@@ -4,8 +4,8 @@ MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - musicClipOne: {fileID: 8300000, guid: 53377bcb062fe194d986a358288928d4, type: 3}
-  - musicClipTwo: {fileID: 8300000, guid: 2d1becbdb29618d4186a00a48588dadd, type: 3}
+  - musicClipOne: {instanceID: 0}
+  - musicClipTwo: {instanceID: 0}
   - musicSource: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
